@@ -2,7 +2,7 @@
 
 - 🔭 Today, I’m currently working on my **Master Degree** on *Beach Morphodynamics*  
 - 🌱 Learning **Python applied to Oceanographic Data Analysis**
-- 👯 Would like a lot to collaborate on new solutions to analyze data with Python
+- 🤝 Would like to collaborate on new solutions to analyze data with Python
 ###
 
 <img src='https://engenharia360.com/wp-content/uploads/2019/04/python-engenharia360-3-1024x512.png' align='left' height=40> <img src="https://github.com/devicons/devicon/blob/2ae2a900d2f041da66e950e4d48052658d850630/icons/r/r-original.svg" align='center' height=40 width=40>
