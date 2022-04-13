@@ -9,6 +9,5 @@
 ##
 <a href = "mailto:nasc.jonatan@gmail.com"><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'></a>
 <a href = "https://www.linkedin.com/in/jonatan-nascimento/"><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>
-<a href = "https://www.reddit.com/user/jonatanrik"><img src='https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white'></a>
 <a href = "https://discordapp.com/users/257280553915645954"><img src='https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white'></a> <a href = "https://www.instagram.com/jonatanrik/"><img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white'></a>
 
